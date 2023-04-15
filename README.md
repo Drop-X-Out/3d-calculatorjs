@@ -1,1 +1,1 @@
-# 3d-calculatorjs
+Javascript Calculator
